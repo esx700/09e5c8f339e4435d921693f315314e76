@@ -1,0 +1,8 @@
+{
+  "appId": 373,
+  "domains": [
+    "https://panel.lynx-panel.com"
+  ],
+  "healthPath": "/api/v1/health",
+  "updatedAt": "2026-11-26T08:27:26Z"
+}
